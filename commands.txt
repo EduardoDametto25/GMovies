@@ -1,7 +1,6 @@
 git config --global user.name EduardoDametto25
 git config --global user.email damettoed@gmail.com
 -----------------------------------------------------
-
 npx create-expo-app@latest GMovies --template blank
 
 cd GMovies 
